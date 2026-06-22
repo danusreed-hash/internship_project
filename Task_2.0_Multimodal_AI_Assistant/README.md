@@ -33,4 +33,7 @@ Launch the application:
 ```bash
 streamlit run app.py
 ```
+## Author
+
+**Danusree Devasenan**
 
